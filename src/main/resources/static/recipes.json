@@ -1,0 +1,161 @@
+[{
+  "Name": "Ceviche",
+  "Genre": "Peruaans, latin, vis",
+  "Instructions": "Pers de limoenen en doe het sap in een ruime kom. Snij de ui en koriander fijn en voeg toe aan de kom. Snij de vis in blokjes en voeg eveneens toe. Laat twintig minuten intrekken. Kook intussen de zoete aardappel. Serveer de vis met de zoete aardappel.",
+  "Servings": 4,
+  "Ingredients": [
+    {
+      "Name": "Verse witte vis",
+      "Quantity": "1 kilo",
+      "Type": "vis"
+    },
+    {
+      "Name": "Limoenen",
+      "Quantity": "10",
+      "Type": "fruit"
+    },
+    {
+      "Name": "Rode ui",
+      "Quantity": "1",
+      "Type": "groente"
+    },
+    {
+      "Name": "Koriander",
+      "Quantity": "Bosje",
+      "Type": "kruiden"
+    },
+    {
+      "Name": "Zoete aardappel",
+      "Quantity": "4",
+      "Type": "groente"
+    }]
+  },
+  {
+    "Name": "Pasta Bolognese",
+    "Genre": "Italiaans, mediterraan, pasta",
+    "Instructions": "Braadt het gehakt rul en voeg vervolgens de gepelde tomaten toe. Kook de spaghetti. Was en scheur de basilicum. Voeg de spaghetti en basilicum aan de saus toe. Zet de geraspte kaas op tafel. Serveer de spahetti.",
+    "Servings": 6,
+    "Ingredients": [
+      {
+        "Name": "Rundergehakt",
+        "Quantity": "500 gram",
+        "Type": "vlees"
+      },
+      {
+        "Name": "Spaghetti",
+        "Quantity": "500 gram",
+        "Type": "pasta"
+      },
+      {
+        "Name": "Gepelde tomaten",
+        "Quantity": "2 blikken van 400 gram",
+        "Type": "groente"
+      },
+      {
+        "Name": "Basilicum",
+        "Quantity": "1 bosje",
+        "Type": "kruiden"
+      },
+      {
+        "Name": "Geraspte kaas",
+        "Quantity": "200 gram",
+        "Type": "zuivel"
+      }]
+  },
+  {
+    "Name": "Lasagna",
+    "Genre": "Italiaans, mediterraan, pasta",
+    "Instructions": "Verwarm de oven op 200 graden. Braadt het gehakt rul en voeg vervolgens de gepelde tomaten toe. Kook de lasagnebladen en verwarm de bechamelsaus. Vul een ovenschaal met laagjes lasagnebladen, de rode saus en de bechamelsaus. Zet in de oven voor 45 minuten. Scheur de basilicum over de schotel bij het opdienen.",
+    "Servings": 6,
+    "Ingredients": [
+      {
+        "Name": "Rundergehakt",
+        "Quantity": "500 gram",
+        "Type": "vlees"
+      },
+      {
+        "Name": "Lasagnabladen",
+        "Quantity": "500 gram",
+        "Type": "pasta"
+      },
+      {
+        "Name": "Gepelde tomaten",
+        "Quantity": "2 blikken van 400 gram",
+        "Type": "groente"
+      },
+      {
+        "Name": "Basilicum",
+        "Quantity": "5 gram",
+        "Type": "kruiden"
+      },
+      {
+        "Name": "Bechamel saus",
+        "Quantity": "1 liter",
+        "Type": "zuivel"
+      }]
+  },
+  {
+    "Name": "Paella",
+    "Genre": "Spaans, vis",
+    "Instructions": "Kook de rijst met de saffraan. Hak de kip in stukken en bak deze aan in een paellapan. Voeg na tien minuten de fruits de mer en paprika (in stukjes) toe en bak deze een paar minuten mee. Voeg vervolgens de rijst toe en bak het geheel tot de gewenste droogte.",
+    "Servings": 10,
+    "Ingredients": [
+      {
+        "Name": "Paella rijst",
+        "Quantity": "1 kilo",
+        "Type": "rijst"
+      },
+      {
+        "Name": "Safraan",
+        "Quantity": "5 gram",
+        "Type": "kruid"
+      },
+      {
+        "Name": "Fruits de mer",
+        "Quantity": "1 kilo",
+        "Type": "kruiden"
+      },
+      {
+        "Name": "Kip",
+        "Quantity": "1 kip",
+        "Type": "gevogelte"
+      },
+      {
+        "Name": "Rode paprika",
+        "Quantity": "4",
+        "Type": "groente"
+      }]
+  },
+  {
+    "Name": "Melanzane parmigiana",
+    "Genre": "Italiaans",
+    "Instructions": "Verwarm de oven op 200 graden. Snij de aubergine in plakken en bak deze kort in een pan. Verwarm de tomatensaus. Snij de mozzarella in plakken. In een ovenschaal menge de tomatensaus, aubergine en mozzarella. Strooi de parmezaanse kaas eroverheen en laat een half uur sudderen in de oven. Serveer met verse basilicumreepjes.",
+    "Servings": 4,
+    "Ingredients": [
+      {
+        "Name": "Aubergine",
+        "Quantity": "3 grote",
+        "Type": "groente"
+      },
+      {
+        "Name": "Tomatensaus",
+        "Quantity": "700 ml",
+        "Type": "groente"
+      },
+      {
+        "Name": "Basilicum",
+        "Quantity": "1 bosje",
+        "Type": "kruiden"
+      },
+      {
+        "Name": "Mozzarella",
+        "Quantity": "1 bol",
+        "Type": "zuivel"
+      },
+      {
+        "Name": "Geraspte parmezaanse kaas",
+        "Quantity": "200 gram",
+        "Type": "zuivel"
+      }]
+  }
+]
