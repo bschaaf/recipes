@@ -1,4 +1,4 @@
-# Cooking #
+# Recipes #
 
 Good day,
 
